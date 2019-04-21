@@ -1,0 +1,21 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #ee9ca7;
+    font-size: 12px;
+    overflow: auto;
+}
+
+.col-xs-4 {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.col-xs-4 a {
+    margin-bottom: 0px;
+}
+
+.container {
+    margin-top: 40px;
+}
